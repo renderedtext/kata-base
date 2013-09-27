@@ -1,5 +1,4 @@
 source "http://rubygems.org"
 
-gem "rspec", :require => "spec"
-gem "autotest"
-gem "ruby-debug"
+gem "rspec", "~> 2.14.1"
+gem "debugger"
